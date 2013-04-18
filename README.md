@@ -1,6 +1,6 @@
 # Get View State
 Extract the view state value from an html page parsed with [cheerio](https://github.com/MatthewMueller/cheerio)
-
+[![Build Status](https://travis-ci.org/nisaacson/get-view-state.png)](https://travis-ci.org/nisaacson/get-view-state)
 # Installation
 
 ```bash
