@@ -1,6 +1,6 @@
 {
   "name": "get-view-state",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Extract the view state value from an html page parsed with [cheerio](https://github.com/MatthewMueller/cheerio)",
   "main": "index.js",
   "directories": {

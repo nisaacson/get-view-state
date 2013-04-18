@@ -1,4 +1,3 @@
-var inspect = require('eyespect').inspector();
 module.exports = function ($) {
   var element = $('#__VIEWSTATE')
   if (element.length === 0) {
